@@ -7,4 +7,4 @@
 * **Have Fun**
 * *Stats Assignment*
 
-![Link to Project 1 details]("https://www.stat.auckland.ac.nz/~fergusson/stats220_S124/project1.php")
+![Link to Github Repo]("https://github.com/ewensyee/my_repo")

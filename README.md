@@ -7,7 +7,7 @@
 * **Have Fun**
 * *Stats Assignment*
 
-![Link to Github Repo]("https://github.com/ewensyee/my_repo")
+![Link to Cat memes]("https://www.pinterest.nz/LiterallyLuigi/cat-memes/")
 
 ![image](https://github.com/ewensyee/my_repo/assets/161990653/ced9a057-e744-4a69-98a7-5802183db030)
 

@@ -2,9 +2,9 @@
 ## Project 1
 
 1. Have an inspo meme
-2. Be creative and make it different
+2. **Be creative and make it different**
 
-* **Have Fun**
+* Have Fun
 * *Stats Assignment*
 
 Link to Cat Memes ![Link to Cat memes]("https://www.pinterest.nz/LiterallyLuigi/cat-memes/")
